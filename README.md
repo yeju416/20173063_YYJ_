@@ -6,7 +6,7 @@
 ## 2주차
   - Github 사용법
 
-<img width="300" height="200" src="./png/cat.jpg"></img>
+<img width="200" height="100" src="./png/cat.jpg"></img>
 
   - 2주차 과제
 
