@@ -8,3 +8,7 @@
 
 <img width="" height="" src="./png/cat.jpg"></img>
 
+  - 2주차 과제
+
+<img width="" height="" src="./png/2ndstudy.png"></img>
+
