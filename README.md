@@ -10,5 +10,5 @@
 
   - 2주차 과제
 
-<img width="" height="" src="./png/2ndstudy.png"></img>
+<img width="300" height="800" src="./png/2ndstudy.png"></img>
 
