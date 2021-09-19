@@ -12,3 +12,7 @@
 
 <img width="" height="" src="./png/2ndstudy.png"></img>
 
+## 3주차
+
+<img width="" height="" src="./png/naver.png"></img>
+<img width="" height="" src="./png/call.png"></img>
