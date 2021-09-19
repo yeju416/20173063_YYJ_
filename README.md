@@ -14,5 +14,5 @@
 
 ## 3주차
 
-<img width="" height="" src="./png/naver.png"></img>
+<img width="200" height="500" src="./png/naver.png"></img>
 <img width="" height="" src="./png/call.png"></img>
